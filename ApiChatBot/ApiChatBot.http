@@ -1,0 +1,6 @@
+@ApiChatBot_HostAddress = http://localhost:5134
+
+GET {{ApiChatBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
